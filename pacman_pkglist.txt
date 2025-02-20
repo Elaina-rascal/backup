@@ -12,7 +12,10 @@ bluez-obex
 bluez-utils
 broadcom-wl
 chromium
+clash-verge-rev-bin
+consolas-font
 dhcpcd
+docker-desktop
 dolphin
 efibootmgr
 fcitx5
@@ -24,10 +27,16 @@ fcitx5-material-color
 fcitx5-pinyin-moegirl
 fcitx5-pinyin-zhwiki
 fcitx5-qt
+fcitx5-sogou
 firefox
+fish
 flatpak
+fzf
 git
+gitkraken
+google-chrome
 grub
+hyprland
 intel-ucode
 iwd
 kate
@@ -36,6 +45,8 @@ lib32-nvidia-utils
 linux
 linux-firmware
 linux-headers
+linuxqq
+lx-music-desktop-bin
 noto-fonts-cjk
 noto-fonts-extra
 ntfs-3g
@@ -47,6 +58,8 @@ plasma-meta
 rust
 sof-firmware
 vim
+visual-studio-code-bin
+wechat
 wget
 wqy-zenhei
 yay

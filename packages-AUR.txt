@@ -1,5 +1,0 @@
-clash-verge-rev-bin
-docker-desktop
-gitkraken
-google-chrome
-visual-studio-code-bin
