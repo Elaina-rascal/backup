@@ -1,5 +1,4 @@
 7zip
-WallpaperEngine_kde6
 adobe-source-han-serif-cn-fonts
 alsa-firmware
 archlinuxcn-keyring
@@ -68,7 +67,6 @@ openssh
 paru
 peek
 plasma-meta
-plasma6-wallpapers-wallpaper-engine-git
 plymouth-kcm
 qemu-user-static
 qt5-graphicaleffects
@@ -78,7 +76,6 @@ quota-tools
 rustdesk-bin
 snipaste
 sof-firmware
-steam
 todesk-bin
 vim
 visual-studio-code-bin
