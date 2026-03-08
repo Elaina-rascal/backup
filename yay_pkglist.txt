@@ -2,8 +2,6 @@
 adobe-source-han-serif-cn-fonts
 alsa-firmware
 amd-ucode
-archlinuxcn-keyring
-archlinuxcn-mirrorlist-git
 ark
 base
 base-devel
@@ -47,12 +45,10 @@ grub
 htop
 inetutils
 intel-ucode
-iwd
 jetbrains-toolbox
 kate
 konsole
 kooha
-kvantum-qt6-git
 less
 lib32-nvidia-utils
 libreoffice-still
@@ -67,7 +63,6 @@ net-tools
 noto-fonts-cjk
 noto-fonts-extra
 ntfs-3g
-nvidia
 nvidia-container-toolkit
 nvidia-settings
 obs-studio
@@ -83,7 +78,6 @@ qt5-tools
 quota-tools
 remmina
 ruby
-rustdesk-bin
 sbctl
 shim-signed
 snipaste
@@ -99,5 +93,3 @@ wqy-zenhei
 xdg-desktop-portal-gtk
 xdg-desktop-portal-wlr
 xdotool
-yay
-yay-debug

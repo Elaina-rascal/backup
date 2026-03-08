@@ -23,3 +23,5 @@ sudo pacman -S yay
 ```bash
 yay -S --needed - < pacman_pkglist.txt
 ```
+#### chrome输入法
+- 需要配置虚拟输入法
